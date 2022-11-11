@@ -1,0 +1,54 @@
+/* Body styling*/
+body{ 
+    background-color: #3500D3;
+}
+
+/* element styling (e.g. standard p, h1, h2, a, etc) */
+h1{
+    color: #FC4445;
+    font-size: 45px;
+    text-align: center;
+}
+p{
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+}
+a{
+    color: #ffffff ;
+    font-size: 20px;
+}
+
+
+h2{
+    color: #30D5C8;
+    font-size: 35px;
+    text-align: center;
+}
+div{
+    color: #ffffff;
+    font-size: 20px;
+}
+
+div.icon-bar{
+   text-align: center;
+}
+
+div.nav-system{
+   text-align: center;
+}
+button{
+    background-color: #30D5C8 ;
+    border: none ;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    text-justify: center;
+}
+a.footer{
+    color:#696969;
+    font-size:25px;
+    
+}
